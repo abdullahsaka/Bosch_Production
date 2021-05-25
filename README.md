@@ -14,3 +14,5 @@ Accuracy, Precision and Matthews Correlation Score (MCC).
 You can find the public dataset on Kaggle via link below:
 https://www.kaggle.com/c/bosch-production-line-performance/data
 
+
+Preliminary Analysis https://github.com/abdullahsaka/Bosch_Production/blob/main/v1.0_Preliminary.ipynb
